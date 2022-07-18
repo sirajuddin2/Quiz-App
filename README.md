@@ -1,3 +1,3 @@
-# Quiz-App
-This project is based Web Development. It is an optional Quiz App. This is a browser app which is connected to Localhost. The code of this app is written in HTML, CSS and JavaScript languages.
-# file:///C:/Users/SIRAJ/Desktop/Project/project%20new/Quiz-App-JavaScript-main/index.html
+# Web_Quiz_App
+My project is based Web Development. This is optional Quiz  app. Each Question has four Option. It is very essential for an  Institute to handle the Examinations and their results. It is  very useful for an Institute to test its students continuously for  their mutual development. This is a browser app which is connected to Localhost. This  app name is Quiz App. The code of this app is written in HTML, CSS and JavaScript languages in Visual Studio. With the effective use, any Institute can apply the “ONLINE  QUIZ” for conducting quick examinations and getting better  results in less time.
+
